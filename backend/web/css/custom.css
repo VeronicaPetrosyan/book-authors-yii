@@ -1,0 +1,19 @@
+@import url('adminlte.min.css');
+
+nav {
+    font-size: 19px;
+}
+
+.content{
+    font-size: 17px;
+}
+
+a.btn.btn-primary{
+    font-size: 14px;
+    padding: 5px 10px;
+}
+
+a.btn.btn-success{
+     font-size: 14px;
+    padding: 5px 10px;
+}
